@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+![banner resmi](https://github.com/osmncnbilge/vuejs-shopping-cart/blob/master/src/assets/banner.JPG)
+
 ## Build Setup
 
 ``` bash
